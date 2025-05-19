@@ -47,14 +47,15 @@ Users sign a challenge with their private key for authentication.
 
 The smart contract verifies signatures to confirm identity.
 
+
 # High-Level Overview:
 Eliminates password hacks & phishing attacks.
 
+
 Uses Ethereum's built-in cryptographic functions.
 
-Inspired by Web3 login solutions like MetaMask authentication.
 
-# RESULT: 
+Inspired by Web3 login solutions like MetaMask authentication.
 
 ![exp 6(i)](https://github.com/user-attachments/assets/23041661-3d7d-462e-8427-03254fde25d8)
 
@@ -63,3 +64,7 @@ Inspired by Web3 login solutions like MetaMask authentication.
 ![exp6(iii)](https://github.com/user-attachments/assets/2e2032a8-b75c-43ed-a9d9-9d8df22a74b7)
 
 ![exp6(iv)](https://github.com/user-attachments/assets/f78ddd13-e4bc-4b9e-a949-0d89e43b72c2)
+
+# RESULT: 
+
+Hence we implemented code for Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
